@@ -7,6 +7,8 @@
 - Names and nicknames in English, Spanish, French, German, Portuguese (Brazil), Italian and Indonesian, checked against each language's One Piece wiki (official manga translations such as Ruffy, Rufy, Baggy)
 - Ordered from the most popular character to the least
 
+**Browse the list:** [One Piece Bounty List](https://maksis72.github.io/one-piece-wanted-posters/), sortable and searchable, with the top 10 highest bounties and the Straw Hat bounties.
+
 Want a poster of one of them with your own name? Make it free in the [One Piece wanted poster maker](https://onepieceposter.com/).
 
 ## Files
