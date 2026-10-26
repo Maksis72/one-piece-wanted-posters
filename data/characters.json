@@ -1,0 +1,3723 @@
+{
+ "meta": {
+  "name": "One Piece Wanted Posters and Bounties",
+  "version": "2026-10-26",
+  "source": "https://onepieceposter.com/one-piece-posters/",
+  "license": "CC BY-SA 4.0",
+  "attribution": "One Piece Wanted Posters and Bounties by onepieceposter.com (https://onepieceposter.com/one-piece-posters/), CC BY-SA 4.0",
+  "languages": [
+   "en",
+   "es",
+   "fr",
+   "de",
+   "pt",
+   "it",
+   "id"
+  ],
+  "count": 120,
+  "galleries": {
+   "en": "https://onepieceposter.com/one-piece-posters/",
+   "es": "https://onepieceposter.com/es/carteles-de-se-busca-one-piece/",
+   "fr": "https://onepieceposter.com/fr/avis-de-recherche-one-piece/",
+   "de": "https://onepieceposter.com/de/one-piece-wanted-poster/",
+   "pt": "https://onepieceposter.com/pt/cartazes-de-procurado-one-piece/",
+   "it": "https://onepieceposter.com/it/poster-wanted-one-piece/",
+   "id": "https://onepieceposter.com/id/poster-wanted-one-piece/"
+  }
+ },
+ "groups": {
+  "straw-hats": {
+   "en": "Straw Hats",
+   "es": "Sombrero de Paja",
+   "fr": "Chapeau de paille",
+   "de": "Strohhutbande",
+   "pt": "Chapéus de Palha",
+   "it": "Cappello di paglia",
+   "id": "Kru Topi Jerami"
+  },
+  "emperors": {
+   "en": "Emperors",
+   "es": "Cuatro Emperadores",
+   "fr": "Empereurs",
+   "de": "Kaiser",
+   "pt": "Imperadores",
+   "it": "Imperatori",
+   "id": "Yonko"
+  },
+  "warlords": {
+   "en": "Warlords",
+   "es": "Señores de la Guerra del Mar",
+   "fr": "Grands Corsaires",
+   "de": "Samurai der Meere",
+   "pt": "Shichibukai",
+   "it": "Flotta dei sette",
+   "id": "Shichibukai"
+  },
+  "worst-generation": {
+   "en": "Worst Generation",
+   "es": "Peor Generación",
+   "fr": "Pire Génération",
+   "de": "Schlimmste Generation",
+   "pt": "Pior Geração",
+   "it": "Peggiore delle generazioni",
+   "id": "Generasi Terburuk"
+  },
+  "roger-pirates": {
+   "en": "Roger Pirates",
+   "es": "Piratas de Roger",
+   "fr": "Pirates de Roger",
+   "de": "Roger-Piraten",
+   "pt": "Piratas do Roger",
+   "it": "Pirati di Roger",
+   "id": "Bajak Laut Roger"
+  },
+  "red-hair-pirates": {
+   "en": "Red Hair Pirates",
+   "es": "Piratas del Pelirrojo",
+   "fr": "Équipage du Roux",
+   "de": "Shanks’ Piraten",
+   "pt": "Piratas do Ruivo",
+   "it": "Pirati del Rosso",
+   "id": "Bajak Laut Rambut Merah"
+  },
+  "whitebeard-pirates": {
+   "en": "Whitebeard Pirates",
+   "es": "Piratas de Barbablanca",
+   "fr": "Équipage de Barbe Blanche",
+   "de": "Whitebeard-Piraten",
+   "pt": "Piratas do Barba Branca",
+   "it": "Pirati di Barbabianca",
+   "id": "Bajak Laut Shirohige"
+  },
+  "beasts-pirates": {
+   "en": "Beasts Pirates",
+   "es": "Piratas de las Bestias",
+   "fr": "Équipage des Cent Bêtes",
+   "de": "Hundert-Bestien-Piraten",
+   "pt": "Piratas Bestiais",
+   "it": "Pirati delle cento bestie",
+   "id": "Bajak Laut Beasts"
+  },
+  "big-mom-pirates": {
+   "en": "Big Mom Pirates",
+   "es": "Piratas de Big Mom",
+   "fr": "Équipage de Big Mom",
+   "de": "Big-Mum-Piraten",
+   "pt": "Piratas da Big Mom",
+   "it": "Pirati di Big Mom",
+   "id": "Bajak Laut Big Mom"
+  },
+  "donquixote-pirates": {
+   "en": "Donquixote Pirates",
+   "es": "Piratas Donquixote",
+   "fr": "Équipage de Don Quijote",
+   "de": "Donquixote-Piraten",
+   "pt": "Piratas Donquixote",
+   "it": "Pirati di Donquijote",
+   "id": "Bajak Laut Donquixote"
+  },
+  "blackbeard-pirates": {
+   "en": "Blackbeard Pirates",
+   "es": "Piratas de Barbanegra",
+   "fr": "Équipage de Barbe Noire",
+   "de": "Blackbeard-Piraten",
+   "pt": "Piratas do Barba Negra",
+   "it": "Pirati di Barbanera",
+   "id": "Bajak Laut Blackbeard"
+  },
+  "baroque-works": {
+   "en": "Baroque Works",
+   "es": "Baroque Works",
+   "fr": "Baroque Works",
+   "de": "Baroque-Firma",
+   "pt": "Baroque Works",
+   "it": "Baroque Works",
+   "id": "Baroque Works"
+  },
+  "cross-guild": {
+   "en": "Cross Guild",
+   "es": "Cross Guild",
+   "fr": "Cross Guild",
+   "de": "Cross Guild",
+   "pt": "Cross Guild",
+   "it": "Cross Guild",
+   "id": "Cross Guild"
+  },
+  "revolutionaries": {
+   "en": "Revolutionary Army",
+   "es": "Ejército Revolucionario",
+   "fr": "Armée révolutionnaire",
+   "de": "Revolutionsarmee",
+   "pt": "Exército Revolucionário",
+   "it": "Armata rivoluzionaria",
+   "id": "Pasukan Revolusioner"
+  }
+ },
+ "characters": [
+  {
+   "slug": "monkey-d-luffy",
+   "name": "Monkey D. Luffy",
+   "bounty": 3000000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats",
+    "emperors",
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Monkey D. Luffy",
+    "es": "Monkey D. Luffy",
+    "fr": "Monkey D. Luffy",
+    "de": "Monkey D. Ruffy",
+    "pt": "Monkey D. Luffy",
+    "it": "Monkey D. Rufy",
+    "id": "Monkey D. Luffy"
+   },
+   "nicknames": {
+    "en": "Straw Hat Luffy",
+    "es": "Luffy Sombrero de Paja",
+    "fr": "Luffy au Chapeau de paille",
+    "de": "Strohhut Ruffy",
+    "pt": "Luffy Chapéu de Palha",
+    "it": "Rufy Cappello di paglia",
+    "id": "Luffy Topi Jerami"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#monkey-d-luffy",
+   "make_poster": "https://onepieceposter.com/?poster=monkey-d-luffy",
+   "popularity_rank": 1
+  },
+  {
+   "slug": "roronoa-zoro",
+   "name": "Roronoa Zoro",
+   "bounty": 1111000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats",
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Roronoa Zoro",
+    "es": "Roronoa Zoro",
+    "fr": "Roronoa Zoro",
+    "de": "Lorenor Zorro",
+    "pt": "Roronoa Zoro",
+    "it": "Roronoa Zoro",
+    "id": "Roronoa Zoro"
+   },
+   "nicknames": {
+    "en": "Pirate Hunter Zoro",
+    "es": "Zoro el Cazador de Piratas",
+    "fr": "Zoro le Chasseur de pirates",
+    "de": "Piratenjäger Zorro",
+    "pt": "Zoro, o Caça-Piratas",
+    "it": "Zoro il Cacciatore di pirati",
+    "id": "Zoro Pemburu Bajak Laut"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#roronoa-zoro",
+   "make_poster": "https://onepieceposter.com/?poster=roronoa-zoro",
+   "popularity_rank": 2
+  },
+  {
+   "slug": "nico-robin",
+   "name": "Nico Robin",
+   "bounty": 930000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Nico Robin",
+    "es": "Nico Robin",
+    "fr": "Nico Robin",
+    "de": "Nico Robin",
+    "pt": "Nico Robin",
+    "it": "Nico Robin",
+    "id": "Nico Robin"
+   },
+   "nicknames": {
+    "en": "Devil Child",
+    "es": "Niña Demonio",
+    "fr": "Enfant du démon",
+    "de": null,
+    "pt": "Filha do Demônio",
+    "it": "Bambina diabolica",
+    "id": "Anak Iblis"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#nico-robin",
+   "make_poster": "https://onepieceposter.com/?poster=nico-robin",
+   "popularity_rank": 3
+  },
+  {
+   "slug": "nami",
+   "name": "Nami",
+   "bounty": 366000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Nami",
+    "es": "Nami",
+    "fr": "Nami",
+    "de": "Nami",
+    "pt": "Nami",
+    "it": "Nami",
+    "id": "Nami"
+   },
+   "nicknames": {
+    "en": "Cat Burglar",
+    "es": "Gata Ladrona",
+    "fr": "La Chatte voleuse",
+    "de": null,
+    "pt": "Gata Ladra",
+    "it": "Gatta ladra",
+    "id": "Kucing Pencuri"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#nami",
+   "make_poster": "https://onepieceposter.com/?poster=nami",
+   "popularity_rank": 4
+  },
+  {
+   "slug": "boa-hancock",
+   "name": "Boa Hancock",
+   "bounty": 1659000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords"
+   ],
+   "names": {
+    "en": "Boa Hancock",
+    "es": "Boa Hancock",
+    "fr": "Boa Hancock",
+    "de": "Boa Hancock",
+    "pt": "Boa Hancock",
+    "it": "Boa Hancock",
+    "id": "Boa Hancock"
+   },
+   "nicknames": {
+    "en": "Snake Princess",
+    "es": "Princesa Serpiente",
+    "fr": "Princesse Serpent",
+    "de": "Piratenkaiserin",
+    "pt": "Princesa Serpente",
+    "it": "Principessa serpente",
+    "id": "Putri Ular"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#boa-hancock",
+   "make_poster": "https://onepieceposter.com/?poster=boa-hancock",
+   "popularity_rank": 5
+  },
+  {
+   "slug": "vinsmoke-sanji",
+   "name": "Vinsmoke Sanji",
+   "bounty": 1032000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Vinsmoke Sanji",
+    "es": "Vinsmoke Sanji",
+    "fr": "Vinsmoke Sanji",
+    "de": "Vinsmoke Sanji",
+    "pt": "Vinsmoke Sanji",
+    "it": "Vinsmoke Sanji",
+    "id": "Vinsmoke Sanji"
+   },
+   "nicknames": {
+    "en": "Black Leg",
+    "es": "Pierna Negra",
+    "fr": "Sanji la Jambe noire",
+    "de": null,
+    "pt": "Perna Negra",
+    "it": "Sanji Gamba nera",
+    "id": "Kaki Hitam"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#vinsmoke-sanji",
+   "make_poster": "https://onepieceposter.com/?poster=vinsmoke-sanji",
+   "popularity_rank": 6
+  },
+  {
+   "slug": "tony-tony-chopper",
+   "name": "Tony Tony Chopper",
+   "bounty": 1000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Tony Tony Chopper",
+    "es": "Tony Tony Chopper",
+    "fr": "Tony Tony Chopper",
+    "de": "Tony Tony Chopper",
+    "pt": "Tony Tony Chopper",
+    "it": "Tony Tony Chopper",
+    "id": "Tony Tony Chopper"
+   },
+   "nicknames": {
+    "en": "Cotton Candy Lover",
+    "es": "Amante del Algodón de Azúcar",
+    "fr": "Le Fana de barbe à papa",
+    "de": null,
+    "pt": "Amante de Algodão Doce",
+    "it": "Cucciolo mangia zucchero filato",
+    "id": "Pecinta Permen Kapas"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#tony-tony-chopper",
+   "make_poster": "https://onepieceposter.com/?poster=tony-tony-chopper",
+   "popularity_rank": 7
+  },
+  {
+   "slug": "kaido",
+   "name": "Kaido",
+   "bounty": 4611100000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Kaido",
+    "es": "Kaido",
+    "fr": "Kaido",
+    "de": "Kaido",
+    "pt": "Kaido",
+    "it": "Kaido",
+    "id": "Kaido"
+   },
+   "nicknames": {
+    "en": "Kaido of the Beasts",
+    "es": "Kaido de las Bestias",
+    "fr": "Kaido aux Cent Bêtes",
+    "de": null,
+    "pt": "Kaido, o Rei das Feras",
+    "it": "Kaido il Signore degli animali",
+    "id": "Kaido Raja Binatang Buas"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#kaido",
+   "make_poster": "https://onepieceposter.com/?poster=kaido",
+   "popularity_rank": 8
+  },
+  {
+   "slug": "usopp",
+   "name": "Usopp",
+   "bounty": 500000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Usopp",
+    "es": "Usopp",
+    "fr": "Usopp",
+    "de": "Lysop",
+    "pt": "Usopp",
+    "it": "Usopp",
+    "id": "Usopp"
+   },
+   "nicknames": {
+    "en": "God Usopp",
+    "es": "God Usopp",
+    "fr": "Dieu Usopp",
+    "de": null,
+    "pt": "Deus Usopp",
+    "it": "God Usop",
+    "id": "Dewa Usopp"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#usopp",
+   "make_poster": "https://onepieceposter.com/?poster=usopp",
+   "popularity_rank": 9
+  },
+  {
+   "slug": "trafalgar-law",
+   "name": "Trafalgar Law",
+   "bounty": 3000000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords",
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Trafalgar Law",
+    "es": "Trafalgar Law",
+    "fr": "Trafalgar Law",
+    "de": "Trafalgar Law",
+    "pt": "Trafalgar Law",
+    "it": "Trafalgar Law",
+    "id": "Trafalgar Law"
+   },
+   "nicknames": {
+    "en": "Surgeon of Death",
+    "es": "Cirujano de la Muerte",
+    "fr": "Chirurgien de la mort",
+    "de": "Chirurg des Todes",
+    "pt": "Cirurgião da Morte",
+    "it": "Chirurgo della morte",
+    "id": "Dokter Bedah Kematian"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#trafalgar-law",
+   "make_poster": "https://onepieceposter.com/?poster=trafalgar-law",
+   "popularity_rank": 10
+  },
+  {
+   "slug": "portgas-d-ace",
+   "name": "Portgas D. Ace",
+   "bounty": 550000000,
+   "bounty_known": true,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Portgas D. Ace",
+    "es": "Portgas D. Ace",
+    "fr": "Portgas D. Ace",
+    "de": "Puma D. Ace",
+    "pt": "Portgas D. Ace",
+    "it": "Portuguese D. Ace",
+    "id": "Portgas D. Ace"
+   },
+   "nicknames": {
+    "en": "Fire Fist Ace",
+    "es": "Ace Puño de Fuego",
+    "fr": "Ace aux Poings ardents",
+    "de": "Feuerfaust Ace",
+    "pt": "Ace Punhos de Fogo",
+    "it": "Ace Pugno di fuoco",
+    "id": "Ace Tinju Api"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#portgas-d-ace",
+   "make_poster": "https://onepieceposter.com/?poster=portgas-d-ace",
+   "popularity_rank": 11
+  },
+  {
+   "slug": "donquixote-doflamingo",
+   "name": "Donquixote Doflamingo",
+   "bounty": 340000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords",
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Donquixote Doflamingo",
+    "es": "Donquixote Doflamingo",
+    "fr": "Don Quijote Doflamingo",
+    "de": "Don Quichotte de Flamingo",
+    "pt": "Donquixote Doflamingo",
+    "it": "Donquijote Do Flamingo",
+    "id": "Donquixote Doflamingo"
+   },
+   "nicknames": {
+    "en": "Heavenly Yaksha",
+    "es": "Demonio Celestial",
+    "fr": "Démon céleste",
+    "de": null,
+    "pt": "Demônio Celestial",
+    "it": "Demone celeste",
+    "id": "Yaksha Surgawi"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#donquixote-doflamingo",
+   "make_poster": "https://onepieceposter.com/?poster=donquixote-doflamingo",
+   "popularity_rank": 12
+  },
+  {
+   "slug": "loki",
+   "name": "Loki",
+   "bounty": 2600000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Loki",
+    "es": "Loki",
+    "fr": "Loki",
+    "de": "Loki",
+    "pt": "Loki",
+    "it": "Loki",
+    "id": "Loki"
+   },
+   "nicknames": {
+    "en": "Accursed Prince",
+    "es": "Príncipe Maldito",
+    "fr": "Prince de la malédiction",
+    "de": null,
+    "pt": "Príncipe Amaldiçoado",
+    "it": "Principe maledetto",
+    "id": "Pangeran Terkutuk"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#loki",
+   "make_poster": "https://onepieceposter.com/?poster=loki",
+   "popularity_rank": 13
+  },
+  {
+   "slug": "brook",
+   "name": "Brook",
+   "bounty": 383000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Brook",
+    "es": "Brook",
+    "fr": "Brook",
+    "de": "Brook",
+    "pt": "Brook",
+    "it": "Brook",
+    "id": "Brook"
+   },
+   "nicknames": {
+    "en": "Soul King",
+    "es": "Soul King",
+    "fr": "Soul King",
+    "de": null,
+    "pt": "Soul King",
+    "it": "Re del soul",
+    "id": "Soul King"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#brook",
+   "make_poster": "https://onepieceposter.com/?poster=brook",
+   "popularity_rank": 14
+  },
+  {
+   "slug": "sabo",
+   "name": "Sabo",
+   "bounty": 602000000,
+   "bounty_known": true,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Sabo",
+    "es": "Sabo",
+    "fr": "Sabo",
+    "de": "Sabo",
+    "pt": "Sabo",
+    "it": "Sabo",
+    "id": "Sabo"
+   },
+   "nicknames": {
+    "en": "Flame Emperor",
+    "es": "Emperador de las Llamas",
+    "fr": "Empereur des flammes",
+    "de": null,
+    "pt": "Imperador das Chamas",
+    "it": "Imperatore delle fiamme",
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#sabo",
+   "make_poster": "https://onepieceposter.com/?poster=sabo",
+   "popularity_rank": 15
+  },
+  {
+   "slug": "charlotte-linlin",
+   "name": "Charlotte Linlin",
+   "bounty": 4388000000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Linlin",
+    "es": "Charlotte Linlin",
+    "fr": "Charlotte Linlin",
+    "de": "Charlotte Linlin",
+    "pt": "Charlotte Linlin",
+    "it": "Charlotte Linlin",
+    "id": "Charlotte Linlin"
+   },
+   "nicknames": {
+    "en": "Big Mom",
+    "es": "Big Mom",
+    "fr": "Big Mom",
+    "de": "Big Mum",
+    "pt": "Big Mom",
+    "it": "Big Mom",
+    "id": "Big Mom"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-linlin",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-linlin",
+   "popularity_rank": 16
+  },
+  {
+   "slug": "edward-newgate",
+   "name": "Edward Newgate",
+   "bounty": 5046000000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Edward Newgate",
+    "es": "Edward Newgate",
+    "fr": "Edward Newgate",
+    "de": "Edward Newgate",
+    "pt": "Edward Newgate",
+    "it": "Edward Newgate",
+    "id": "Edward Newgate"
+   },
+   "nicknames": {
+    "en": "Whitebeard",
+    "es": "Barbablanca",
+    "fr": "Barbe Blanche",
+    "de": "Whitebeard",
+    "pt": "Barba Branca",
+    "it": "Barbabianca",
+    "id": "Shirohige"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#edward-newgate",
+   "make_poster": "https://onepieceposter.com/?poster=edward-newgate",
+   "popularity_rank": 17
+  },
+  {
+   "slug": "gol-d-roger",
+   "name": "Gol D. Roger",
+   "bounty": 5564800000,
+   "bounty_known": true,
+   "groups": [
+    "roger-pirates"
+   ],
+   "names": {
+    "en": "Gol D. Roger",
+    "es": "Gol D. Roger",
+    "fr": "Gol D. Roger",
+    "de": "Gol D. Roger",
+    "pt": "Gol D. Roger",
+    "it": "Gol D. Roger",
+    "id": "Gol D. Roger"
+   },
+   "nicknames": {
+    "en": "Pirate King",
+    "es": "Rey de los Piratas",
+    "fr": "Roi des pirates",
+    "de": "König der Piraten",
+    "pt": "Rei dos Piratas",
+    "it": "Re dei pirati",
+    "id": "Raja Bajak Laut"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gol-d-roger",
+   "make_poster": "https://onepieceposter.com/?poster=gol-d-roger",
+   "popularity_rank": 18
+  },
+  {
+   "slug": "dracule-mihawk",
+   "name": "Dracule Mihawk",
+   "bounty": 3590000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords",
+    "cross-guild"
+   ],
+   "names": {
+    "en": "Dracule Mihawk",
+    "es": "Dracule Mihawk",
+    "fr": "Dracule Mihawk",
+    "de": "Mihawk Dulacre",
+    "pt": "Dracule Mihawk",
+    "it": "Drakul Mihawk",
+    "id": "Dracule Mihawk"
+   },
+   "nicknames": {
+    "en": "Hawk Eyes Mihawk",
+    "es": "Mihawk Ojos de Halcón",
+    "fr": "Œil de faucon Mihawk",
+    "de": "Falkenauge Mihawk",
+    "pt": "Mihawk Olhos de Gavião",
+    "it": "Mihawk Occhi di falco",
+    "id": "Mata Elang"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#dracule-mihawk",
+   "make_poster": "https://onepieceposter.com/?poster=dracule-mihawk",
+   "popularity_rank": 19
+  },
+  {
+   "slug": "monkey-d-dragon",
+   "name": "Monkey D. Dragon",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Monkey D. Dragon",
+    "es": "Monkey D. Dragon",
+    "fr": "Monkey D. Dragon",
+    "de": "Monkey D. Dragon",
+    "pt": "Monkey D. Dragon",
+    "it": "Monkey D. Dragon",
+    "id": "Monkey D. Dragon"
+   },
+   "nicknames": {
+    "en": "Rebellious Dragon",
+    "es": "El Dragón Insurrecto",
+    "fr": "Dragon le Révolutionnaire",
+    "de": null,
+    "pt": "Dragão Rebelde",
+    "it": "Drago ribelle",
+    "id": "Naga Pemberontak"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#monkey-d-dragon",
+   "make_poster": "https://onepieceposter.com/?poster=monkey-d-dragon",
+   "popularity_rank": 20
+  },
+  {
+   "slug": "marshall-d-teach",
+   "name": "Marshall D. Teach",
+   "bounty": 3996000000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "warlords",
+    "worst-generation",
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Marshall D. Teach",
+    "es": "Marshall D. Teach",
+    "fr": "Marshall D. Teach",
+    "de": "Marshall D. Teach",
+    "pt": "Marshall D. Teach",
+    "it": "Marshall D. Teach",
+    "id": "Marshall D. Teach"
+   },
+   "nicknames": {
+    "en": "Blackbeard",
+    "es": "Barbanegra",
+    "fr": "Barbe Noire",
+    "de": "Blackbeard",
+    "pt": "Barba Negra",
+    "it": "Barbanera",
+    "id": "Blackbeard"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#marshall-d-teach",
+   "make_poster": "https://onepieceposter.com/?poster=marshall-d-teach",
+   "popularity_rank": 21
+  },
+  {
+   "slug": "charlotte-katakuri",
+   "name": "Charlotte Katakuri",
+   "bounty": 1057000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Katakuri",
+    "es": "Charlotte Katakuri",
+    "fr": "Charlotte Dent-de-Chien",
+    "de": "Charlotte Katakuri",
+    "pt": "Charlotte Katakuri",
+    "it": "Charlotte Katakuri",
+    "id": "Charlotte Katakuri"
+   },
+   "nicknames": {
+    "en": "Sweet Commander",
+    "es": "Comandante Sweet",
+    "fr": null,
+    "de": null,
+    "pt": "General da Doçura",
+    "it": "Generale dei dolci",
+    "id": "Komandan Manis"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-katakuri",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-katakuri",
+   "popularity_rank": 22
+  },
+  {
+   "slug": "franky",
+   "name": "Franky",
+   "bounty": 394000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats"
+   ],
+   "names": {
+    "en": "Franky",
+    "es": "Franky",
+    "fr": "Franky",
+    "de": "Franky",
+    "pt": "Franky",
+    "it": "Franky",
+    "id": "Franky"
+   },
+   "nicknames": {
+    "en": "Iron Man Franky",
+    "es": "Franky el Hombre de Hierro",
+    "fr": "Franky le Cyborg",
+    "de": null,
+    "pt": "Franky Homem de Ferro",
+    "it": "Franky il Cyborg",
+    "id": "Manusia Metal Franky"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#franky",
+   "make_poster": "https://onepieceposter.com/?poster=franky",
+   "popularity_rank": 23
+  },
+  {
+   "slug": "crocodile",
+   "name": "Crocodile",
+   "bounty": 1965000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords",
+    "cross-guild",
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Crocodile",
+    "es": "Crocodile",
+    "fr": "Crocodile",
+    "de": "Crocodile",
+    "pt": "Crocodile",
+    "it": "Crocodile",
+    "id": "Crocodile"
+   },
+   "nicknames": {
+    "en": "Sir Crocodile",
+    "es": "Sir Crocodile",
+    "fr": "Sir Crocodile",
+    "de": null,
+    "pt": "Sir Crocodile",
+    "it": "Sir Crocodile",
+    "id": "Tuan Crocodile"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#crocodile",
+   "make_poster": "https://onepieceposter.com/?poster=crocodile",
+   "popularity_rank": 24
+  },
+  {
+   "slug": "bon-clay",
+   "name": "Bon Clay",
+   "bounty": 32000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Bon Clay",
+    "es": "Bon Clay",
+    "fr": "Bon Clay",
+    "de": "Bon Clay",
+    "pt": "Bon Clay",
+    "it": "Von Clay",
+    "id": "Bon Clay"
+   },
+   "nicknames": {
+    "en": "Mr. 2",
+    "es": "Mr. 2",
+    "fr": "Mr. 2",
+    "de": "Mr. 2",
+    "pt": "Mr. 2",
+    "it": "Mr. 2",
+    "id": "Mr. 2"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#bon-clay",
+   "make_poster": "https://onepieceposter.com/?poster=bon-clay",
+   "popularity_rank": 25
+  },
+  {
+   "slug": "shanks",
+   "name": "Shanks",
+   "bounty": 4048900000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "roger-pirates",
+    "red-hair-pirates"
+   ],
+   "names": {
+    "en": "Shanks",
+    "es": "Shanks",
+    "fr": "Shanks",
+    "de": "Shanks",
+    "pt": "Shanks",
+    "it": "Shanks",
+    "id": "Shanks"
+   },
+   "nicknames": {
+    "en": "Red-Haired Shanks",
+    "es": "Shanks el Pelirrojo",
+    "fr": "Shanks le Roux",
+    "de": "Der rote Shanks",
+    "pt": "Shanks, o Ruivo",
+    "it": "Shanks il Rosso",
+    "id": "Rambut Merah Shanks"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#shanks",
+   "make_poster": "https://onepieceposter.com/?poster=shanks",
+   "popularity_rank": 26
+  },
+  {
+   "slug": "rocks-d-xebec",
+   "name": "Rocks D. Xebec",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [],
+   "names": {
+    "en": "Rocks D. Xebec",
+    "es": "Rocks D. Xebec",
+    "fr": "Rocks D. Xebec",
+    "de": "Rocks D. Xebec",
+    "pt": "Rocks D. Xebec",
+    "it": "Rocks D. Xebec",
+    "id": "Rocks D. Xebec"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#rocks-d-xebec",
+   "make_poster": "https://onepieceposter.com/?poster=rocks-d-xebec",
+   "popularity_rank": 27
+  },
+  {
+   "slug": "jewelry-bonney",
+   "name": "Jewelry Bonney",
+   "bounty": 320000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Jewelry Bonney",
+    "es": "Jewelry Bonney",
+    "fr": "Jewelry Bonney",
+    "de": "Jewelry Bonney",
+    "pt": "Jewelry Bonney",
+    "it": "Jewelry Bonney",
+    "id": "Jewelry Bonney"
+   },
+   "nicknames": {
+    "en": "Big Eater",
+    "es": "La Glotona",
+    "fr": "La Gloutonne",
+    "de": null,
+    "pt": "Devoradora",
+    "it": "La Mangiona",
+    "id": "Pemakan Besar"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#jewelry-bonney",
+   "make_poster": "https://onepieceposter.com/?poster=jewelry-bonney",
+   "popularity_rank": 28
+  },
+  {
+   "slug": "buggy",
+   "name": "Buggy",
+   "bounty": 3189000000,
+   "bounty_known": true,
+   "groups": [
+    "emperors",
+    "warlords",
+    "roger-pirates",
+    "cross-guild"
+   ],
+   "names": {
+    "en": "Buggy",
+    "es": "Buggy",
+    "fr": "Baggy",
+    "de": "Buggy",
+    "pt": "Buggy",
+    "it": "Bagy",
+    "id": "Buggy"
+   },
+   "nicknames": {
+    "en": "Buggy the Clown",
+    "es": "Buggy el Payaso",
+    "fr": "Baggy le Clown",
+    "de": "Buggy der Clown",
+    "pt": "Buggy, o Palhaço",
+    "it": "Bagy il Clown",
+    "id": "Buggy si Badut"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#buggy",
+   "make_poster": "https://onepieceposter.com/?poster=buggy",
+   "popularity_rank": 29
+  },
+  {
+   "slug": "jinbe",
+   "name": "Jinbe",
+   "bounty": 1100000000,
+   "bounty_known": true,
+   "groups": [
+    "straw-hats",
+    "warlords"
+   ],
+   "names": {
+    "en": "Jinbe",
+    "es": "Jinbe",
+    "fr": "Jinbe",
+    "de": "Jinbe",
+    "pt": "Jinbe",
+    "it": "Jinbe",
+    "id": "Jinbe"
+   },
+   "nicknames": {
+    "en": "Knight of the Sea",
+    "es": "Caballero del Mar",
+    "fr": "Paladin des mers",
+    "de": "Ritter der Meere",
+    "pt": "Cavaleiro do Mar",
+    "it": "Cavaliere del mare",
+    "id": "Ksatria Laut"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#jinbe",
+   "make_poster": "https://onepieceposter.com/?poster=jinbe",
+   "popularity_rank": 30
+  },
+  {
+   "slug": "alvida",
+   "name": "Alvida",
+   "bounty": 5000000,
+   "bounty_known": true,
+   "groups": [
+    "cross-guild"
+   ],
+   "names": {
+    "en": "Alvida",
+    "es": "Alvida",
+    "fr": "Alvida",
+    "de": "Alvida",
+    "pt": "Alvida",
+    "it": "Albida",
+    "id": "Alvida"
+   },
+   "nicknames": {
+    "en": "Iron Mace",
+    "es": "Maza de Hierro",
+    "fr": "Alvida à la Massue",
+    "de": "Alvida mit der Eisenkeule",
+    "pt": "Clava de Ferro",
+    "it": "Mazza chiodata",
+    "id": "Gada Besi"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#alvida",
+   "make_poster": "https://onepieceposter.com/?poster=alvida",
+   "popularity_rank": 31
+  },
+  {
+   "slug": "gecko-moria",
+   "name": "Gecko Moria",
+   "bounty": 320000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords"
+   ],
+   "names": {
+    "en": "Gecko Moria",
+    "es": "Gecko Moria",
+    "fr": "Gecko Moria",
+    "de": "Gecko Moria",
+    "pt": "Gecko Moria",
+    "it": "Gekko Moria",
+    "id": "Gecko Moria"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gecko-moria",
+   "make_poster": "https://onepieceposter.com/?poster=gecko-moria",
+   "popularity_rank": 32
+  },
+  {
+   "slug": "arlong",
+   "name": "Arlong",
+   "bounty": 20000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Arlong",
+    "es": "Arlong",
+    "fr": "Arlong",
+    "de": "Arlong",
+    "pt": "Arlong",
+    "it": "Arlong",
+    "id": "Arlong"
+   },
+   "nicknames": {
+    "en": "Arlong the Saw",
+    "es": "Arlong la Sierra",
+    "fr": "Arlong la Scie",
+    "de": "Arlong Sägehai",
+    "pt": "Arlong, o Serra",
+    "it": "Arlong Denti aguzzi",
+    "id": "Arlong si Gergaji"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#arlong",
+   "make_poster": "https://onepieceposter.com/?poster=arlong",
+   "popularity_rank": 33
+  },
+  {
+   "slug": "king",
+   "name": "King",
+   "bounty": 1390000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "King",
+    "es": "King",
+    "fr": "King",
+    "de": "King",
+    "pt": "King",
+    "it": "King",
+    "id": "King"
+   },
+   "nicknames": {
+    "en": "King the Conflagration",
+    "es": "King la Conflagración",
+    "fr": "King l'Incendie",
+    "de": null,
+    "pt": "King dos Incêndios",
+    "it": "King l'Incendio",
+    "id": "Raja Kebakaran"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#king",
+   "make_poster": "https://onepieceposter.com/?poster=king",
+   "popularity_rank": 34
+  },
+  {
+   "slug": "galdino",
+   "name": "Galdino",
+   "bounty": 24000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Galdino",
+    "es": "Galdino",
+    "fr": "Galdino",
+    "de": "Galdino",
+    "pt": "Galdino",
+    "it": "Galdino",
+    "id": "Galdino"
+   },
+   "nicknames": {
+    "en": "Mr. 3",
+    "es": "Mr. 3",
+    "fr": "Mr. 3",
+    "de": "Mr. 3",
+    "pt": "Mr. 3",
+    "it": "Mr. 3",
+    "id": "Mr. 3"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#galdino",
+   "make_poster": "https://onepieceposter.com/?poster=galdino",
+   "popularity_rank": 35
+  },
+  {
+   "slug": "eustass-kid",
+   "name": "Eustass Kid",
+   "bounty": 3000000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Eustass Kid",
+    "es": "Eustass Kid",
+    "fr": "Eustass Kid",
+    "de": "Eustass Kid",
+    "pt": "Eustass Kid",
+    "it": "Eustass Kid",
+    "id": "Eustass Kid"
+   },
+   "nicknames": {
+    "en": "Captain Kid",
+    "es": "Captain Kid",
+    "fr": "Captain Kidd",
+    "de": null,
+    "pt": "Captain Kid",
+    "it": "Capitano Kidd",
+    "id": "Kapten Kid"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#eustass-kid",
+   "make_poster": "https://onepieceposter.com/?poster=eustass-kid",
+   "popularity_rank": 36
+  },
+  {
+   "slug": "emporio-ivankov",
+   "name": "Emporio Ivankov",
+   "bounty": 100000000,
+   "bounty_known": true,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Emporio Ivankov",
+    "es": "Emporio Ivankov",
+    "fr": "Emporio Ivankov",
+    "de": "Emporio Ivankov",
+    "pt": "Emporio Ivankov",
+    "it": "Emporio Ivankov",
+    "id": "Emporio Ivankov"
+   },
+   "nicknames": {
+    "en": "Okama King",
+    "es": "Rey Travesti",
+    "fr": "Le Faiseur de miracles",
+    "de": null,
+    "pt": "Rainha Okama",
+    "it": "Persona dei miracoli",
+    "id": "Ratu Okama"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#emporio-ivankov",
+   "make_poster": "https://onepieceposter.com/?poster=emporio-ivankov",
+   "popularity_rank": 37
+  },
+  {
+   "slug": "marco",
+   "name": "Marco",
+   "bounty": 1374000000,
+   "bounty_known": true,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Marco",
+    "es": "Marco",
+    "fr": "Marco",
+    "de": "Marco",
+    "pt": "Marco",
+    "it": "Marco",
+    "id": "Marco"
+   },
+   "nicknames": {
+    "en": "Marco the Phoenix",
+    "es": "Marco el Fénix",
+    "fr": "Marco le Phénix",
+    "de": "Marco der Phönix",
+    "pt": "Marco, a Fênix",
+    "it": "Marco la Fenice",
+    "id": "Marco si Phoenix"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#marco",
+   "make_poster": "https://onepieceposter.com/?poster=marco",
+   "popularity_rank": 38
+  },
+  {
+   "slug": "mikita",
+   "name": "Mikita",
+   "bounty": 7500000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Mikita",
+    "es": "Mikita",
+    "fr": "Mikita",
+    "de": "Mikita",
+    "pt": "Mikita",
+    "it": "Mikita",
+    "id": "Mikita"
+   },
+   "nicknames": {
+    "en": "Miss Valentine",
+    "es": "Miss Valentine",
+    "fr": "Miss Valentine",
+    "de": "Miss Valentine",
+    "pt": "Miss Valentine",
+    "it": "Miss Valentine",
+    "id": "Miss Valentine"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#mikita",
+   "make_poster": "https://onepieceposter.com/?poster=mikita",
+   "popularity_rank": 39
+  },
+  {
+   "slug": "marianne",
+   "name": "Marianne",
+   "bounty": 29000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Marianne",
+    "es": "Marianne",
+    "fr": "Marianne",
+    "de": "Marianne",
+    "pt": "Marianne",
+    "it": "Marianne",
+    "id": "Marianne"
+   },
+   "nicknames": {
+    "en": "Miss Goldenweek",
+    "es": "Miss Goldenweek",
+    "fr": "Miss Goldenweek",
+    "de": "Miss Goldenweek",
+    "pt": "Miss Goldenweek",
+    "it": "Miss Goldenweek",
+    "id": "Miss Goldenweek"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#marianne",
+   "make_poster": "https://onepieceposter.com/?poster=marianne",
+   "popularity_rank": 40
+  },
+  {
+   "slug": "queen",
+   "name": "Queen",
+   "bounty": 1320000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Queen",
+    "es": "Queen",
+    "fr": "Queen",
+    "de": "Queen",
+    "pt": "Queen",
+    "it": "Queen",
+    "id": "Queen"
+   },
+   "nicknames": {
+    "en": "Queen the Plague",
+    "es": "Queen la Plaga",
+    "fr": "Queen la Pandémie",
+    "de": null,
+    "pt": "Queen das Pragas",
+    "it": "Queen l'Epidemia",
+    "id": "Ratu Wabah"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#queen",
+   "make_poster": "https://onepieceposter.com/?poster=queen",
+   "popularity_rank": 41
+  },
+  {
+   "slug": "crocus",
+   "name": "Crocus",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "roger-pirates"
+   ],
+   "names": {
+    "en": "Crocus",
+    "es": "Crocus",
+    "fr": "Crocus",
+    "de": "Crocus",
+    "pt": "Crocus",
+    "it": "Crocus",
+    "id": "Crocus"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#crocus",
+   "make_poster": "https://onepieceposter.com/?poster=crocus",
+   "popularity_rank": 42
+  },
+  {
+   "slug": "silvers-rayleigh",
+   "name": "Silvers Rayleigh",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "roger-pirates"
+   ],
+   "names": {
+    "en": "Silvers Rayleigh",
+    "es": "Silvers Rayleigh",
+    "fr": "Silvers Rayleigh",
+    "de": "Silvers Rayleigh",
+    "pt": "Silvers Rayleigh",
+    "it": "Silvers Rayleigh",
+    "id": "Silvers Rayleigh"
+   },
+   "nicknames": {
+    "en": "Dark King",
+    "es": "Rey Oscuro",
+    "fr": "Le Seigneur des ténèbres",
+    "de": "Finsterer König",
+    "pt": "Rei das Trevas",
+    "it": "Re oscuro",
+    "id": "Raja Kegelapan"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#silvers-rayleigh",
+   "make_poster": "https://onepieceposter.com/?poster=silvers-rayleigh",
+   "popularity_rank": 43
+  },
+  {
+   "slug": "kozuki-oden",
+   "name": "Kozuki Oden",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "roger-pirates",
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Kozuki Oden",
+    "es": "Kozuki Oden",
+    "fr": "Kozuki Oden",
+    "de": "Kozuki Oden",
+    "pt": "Kozuki Oden",
+    "it": "Kozuki Oden",
+    "id": "Kozuki Oden"
+   },
+   "nicknames": {
+    "en": "Idiot Lord",
+    "es": "Señor Estúpido",
+    "fr": "Seigneur stupide",
+    "de": null,
+    "pt": "Daimyou Tolo",
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#kozuki-oden",
+   "make_poster": "https://onepieceposter.com/?poster=kozuki-oden",
+   "popularity_rank": 44
+  },
+  {
+   "slug": "don-krieg",
+   "name": "Don Krieg",
+   "bounty": 17000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Don Krieg",
+    "es": "Don Krieg",
+    "fr": "Don Krieg",
+    "de": "Don Creek",
+    "pt": "Don Krieg",
+    "it": "Creek",
+    "id": "Don Krieg"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#don-krieg",
+   "make_poster": "https://onepieceposter.com/?poster=don-krieg",
+   "popularity_rank": 45
+  },
+  {
+   "slug": "kuro",
+   "name": "Kuro",
+   "bounty": 16000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Kuro",
+    "es": "Kuro",
+    "fr": "Kuro",
+    "de": "Black",
+    "pt": "Kuro",
+    "it": "Kuro",
+    "id": "Kuro"
+   },
+   "nicknames": {
+    "en": "Kuro of a Hundred Plans",
+    "es": "Kuro de los Cien Planes",
+    "fr": "Kuro aux Cent Plans",
+    "de": "Black das Superhirn",
+    "pt": "Kuro dos Cem Planos",
+    "it": "Kuro dalle Cento risorse",
+    "id": "Kuro dari Seratus Rencana"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#kuro",
+   "make_poster": "https://onepieceposter.com/?poster=kuro",
+   "popularity_rank": 46
+  },
+  {
+   "slug": "koala",
+   "name": "Koala",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Koala",
+    "es": "Koala",
+    "fr": "Koala",
+    "de": "Koala",
+    "pt": "Koala",
+    "it": "Koala",
+    "id": "Koala"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#koala",
+   "make_poster": "https://onepieceposter.com/?poster=koala",
+   "popularity_rank": 47
+  },
+  {
+   "slug": "senor-pink",
+   "name": "Señor Pink",
+   "bounty": 58000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Señor Pink",
+    "es": "Señor Pink",
+    "fr": "Señor Pink",
+    "de": "Señor Pink",
+    "pt": "Señor Pink",
+    "it": "Señor Pink",
+    "id": "Señor Pink"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#senor-pink",
+   "make_poster": "https://onepieceposter.com/?poster=senor-pink",
+   "popularity_rank": 48
+  },
+  {
+   "slug": "caesar-clown",
+   "name": "Caesar Clown",
+   "bounty": 300000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Caesar Clown",
+    "es": "Caesar Clown",
+    "fr": "César Clown",
+    "de": "Caesar Clown",
+    "pt": "Caesar Clown",
+    "it": "Caesar Clown",
+    "id": "Caesar Clown"
+   },
+   "nicknames": {
+    "en": "Master",
+    "es": "Master",
+    "fr": "Master",
+    "de": null,
+    "pt": "Mestre",
+    "it": "Padrone",
+    "id": "Master"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#caesar-clown",
+   "make_poster": "https://onepieceposter.com/?poster=caesar-clown",
+   "popularity_rank": 49
+  },
+  {
+   "slug": "gem",
+   "name": "Gem",
+   "bounty": 10000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Gem",
+    "es": "Gem",
+    "fr": "Gem",
+    "de": "Gem",
+    "pt": "Gem",
+    "it": "Gem",
+    "id": "Gem"
+   },
+   "nicknames": {
+    "en": "Mr. 5",
+    "es": "Mr. 5",
+    "fr": "Mr. 5",
+    "de": "Mr. 5",
+    "pt": "Mr. 5",
+    "it": "Mr. 5",
+    "id": "Mr. 5"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gem",
+   "make_poster": "https://onepieceposter.com/?poster=gem",
+   "popularity_rank": 50
+  },
+  {
+   "slug": "bellamy",
+   "name": "Bellamy",
+   "bounty": 195000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Bellamy",
+    "es": "Bellamy",
+    "fr": "Bellamy",
+    "de": "Bellamy",
+    "pt": "Bellamy",
+    "it": "Bellamy",
+    "id": "Bellamy"
+   },
+   "nicknames": {
+    "en": "Bellamy the Hyena",
+    "es": "Bellamy la Hiena",
+    "fr": "Bellamy la Hyène",
+    "de": "Bellamy die Hyäne",
+    "pt": "Bellamy, a Hiena",
+    "it": "Bellamy la Iena",
+    "id": "Bellamy si Hyena"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#bellamy",
+   "make_poster": "https://onepieceposter.com/?poster=bellamy",
+   "popularity_rank": 51
+  },
+  {
+   "slug": "cavendish",
+   "name": "Cavendish",
+   "bounty": 330000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Cavendish",
+    "es": "Cavendish",
+    "fr": "Cavendish",
+    "de": "Cavendish",
+    "pt": "Cavendish",
+    "it": "Cavendish",
+    "id": "Cavendish"
+   },
+   "nicknames": {
+    "en": "Cavendish of the White Horse",
+    "es": "Cavendish el del Blanco Corcel",
+    "fr": "Cavendish au Cheval blanc",
+    "de": null,
+    "pt": "Cavendish do Cavalo Branco",
+    "it": "Cavendish il Cavallo bianco",
+    "id": "Cavendish si Kuda Putih"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#cavendish",
+   "make_poster": "https://onepieceposter.com/?poster=cavendish",
+   "popularity_rank": 52
+  },
+  {
+   "slug": "black-maria",
+   "name": "Black Maria",
+   "bounty": 480000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Black Maria",
+    "es": "Black Maria",
+    "fr": "Black Maria",
+    "de": "Black Maria",
+    "pt": "Black Maria",
+    "it": "Black Maria",
+    "id": "Black Maria"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#black-maria",
+   "make_poster": "https://onepieceposter.com/?poster=black-maria",
+   "popularity_rank": 53
+  },
+  {
+   "slug": "bepo",
+   "name": "Bepo",
+   "bounty": 1500,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Bepo",
+    "es": "Bepo",
+    "fr": "Bepo",
+    "de": "Bepo",
+    "pt": "Bepo",
+    "it": "Bepo",
+    "id": "Bepo"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#bepo",
+   "make_poster": "https://onepieceposter.com/?poster=bepo",
+   "popularity_rank": 54
+  },
+  {
+   "slug": "benn-beckman",
+   "name": "Benn Beckman",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "red-hair-pirates"
+   ],
+   "names": {
+    "en": "Benn Beckman",
+    "es": "Benn Beckman",
+    "fr": "Benn Beckman",
+    "de": "Benn Beckman",
+    "pt": "Benn Beckman",
+    "it": "Benn Beckman",
+    "id": "Benn Beckman"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#benn-beckman",
+   "make_poster": "https://onepieceposter.com/?poster=benn-beckman",
+   "popularity_rank": 55
+  },
+  {
+   "slug": "daz-bonez",
+   "name": "Daz Bonez",
+   "bounty": 75000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Daz Bonez",
+    "es": "Daz Bonez",
+    "fr": "Das Bones",
+    "de": "Daz Bonez",
+    "pt": "Daz Bonez",
+    "it": "Das Bornes",
+    "id": "Daz Bonez"
+   },
+   "nicknames": {
+    "en": "Mr. 1",
+    "es": "Mr. 1",
+    "fr": "Mr. 1",
+    "de": "Mr. 1",
+    "pt": "Mr. 1",
+    "it": "Mr. 1",
+    "id": "Mr. 1"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#daz-bonez",
+   "make_poster": "https://onepieceposter.com/?poster=daz-bonez",
+   "popularity_rank": 56
+  },
+  {
+   "slug": "foxy",
+   "name": "Foxy",
+   "bounty": 24000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Foxy",
+    "es": "Foxy",
+    "fr": "Foxy",
+    "de": "Foxy",
+    "pt": "Foxy",
+    "it": "Foxy",
+    "id": "Foxy"
+   },
+   "nicknames": {
+    "en": "Silver Fox",
+    "es": "Zorro Plateado",
+    "fr": "Renard argenté",
+    "de": "Silberfuchs",
+    "pt": "Raposa Prateada",
+    "it": "Volpe d'argento",
+    "id": "Rubah Perak"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#foxy",
+   "make_poster": "https://onepieceposter.com/?poster=foxy",
+   "popularity_rank": 57
+  },
+  {
+   "slug": "ginny",
+   "name": "Ginny",
+   "bounty": 190000000,
+   "bounty_known": true,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Ginny",
+    "es": "Ginny",
+    "fr": "Ginney",
+    "de": "Ginny",
+    "pt": "Ginny",
+    "it": "Ginny",
+    "id": "Ginny"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#ginny",
+   "make_poster": "https://onepieceposter.com/?poster=ginny",
+   "popularity_rank": 58
+  },
+  {
+   "slug": "killer",
+   "name": "Killer",
+   "bounty": 200000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Killer",
+    "es": "Killer",
+    "fr": "Killer",
+    "de": "Killer",
+    "pt": "Killer",
+    "it": "Killer",
+    "id": "Killer"
+   },
+   "nicknames": {
+    "en": "Massacre Soldier",
+    "es": "Leal Soldado",
+    "fr": "Le Massacreur",
+    "de": null,
+    "pt": "Soldado Exterminador",
+    "it": "Il Massacratore",
+    "id": "Prajurit Pembantaian"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#killer",
+   "make_poster": "https://onepieceposter.com/?poster=killer",
+   "popularity_rank": 59
+  },
+  {
+   "slug": "ulti",
+   "name": "Ulti",
+   "bounty": 400000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Ulti",
+    "es": "Ulti",
+    "fr": "Ulti",
+    "de": "Ulti",
+    "pt": "Ulti",
+    "it": "Ulti",
+    "id": "Ulti"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#ulti",
+   "make_poster": "https://onepieceposter.com/?poster=ulti",
+   "popularity_rank": 60
+  },
+  {
+   "slug": "yasopp",
+   "name": "Yasopp",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "red-hair-pirates"
+   ],
+   "names": {
+    "en": "Yasopp",
+    "es": "Yasopp",
+    "fr": "Yasopp",
+    "de": "Yasopp",
+    "pt": "Yasopp",
+    "it": "Yasopp",
+    "id": "Yasopp"
+   },
+   "nicknames": {
+    "en": "Chaser",
+    "es": "Chaser",
+    "fr": "Le Chasseur",
+    "de": null,
+    "pt": "Caçador",
+    "it": "L'Inseguitore",
+    "id": "Pemburu"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#yasopp",
+   "make_poster": "https://onepieceposter.com/?poster=yasopp",
+   "popularity_rank": 61
+  },
+  {
+   "slug": "izou",
+   "name": "Izo",
+   "bounty": 510000000,
+   "bounty_known": true,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Izo",
+    "es": "Izo",
+    "fr": "Izo",
+    "de": "Izo",
+    "pt": "Izo",
+    "it": "Izo",
+    "id": "Izo"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#izou",
+   "make_poster": "https://onepieceposter.com/?poster=izou",
+   "popularity_rank": 62
+  },
+  {
+   "slug": "charlotte-lola",
+   "name": "Charlotte Lola",
+   "bounty": 24000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Lola",
+    "es": "Charlotte Lola",
+    "fr": "Charlotte Laura",
+    "de": "Charlotte Lola",
+    "pt": "Charlotte Lola",
+    "it": "Charlotte Laura",
+    "id": "Charlotte Lola"
+   },
+   "nicknames": {
+    "en": "Marriage Proposal Lola",
+    "es": "Lola la Pretendiente",
+    "fr": "Laura l'Amoureuse",
+    "de": null,
+    "pt": "Lola dos Pedidos de Casamento",
+    "it": "Laura la Pretendente",
+    "id": "Proposal Pernikahan Lola"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-lola",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-lola",
+   "popularity_rank": 63
+  },
+  {
+   "slug": "caribou",
+   "name": "Caribou",
+   "bounty": 210000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Caribou",
+    "es": "Caribou",
+    "fr": "Caribou",
+    "de": "Caribou",
+    "pt": "Caribou",
+    "it": "Caribou",
+    "id": "Caribou"
+   },
+   "nicknames": {
+    "en": "Wet-Haired Caribou",
+    "es": "Caribou el del Pelo Mojado",
+    "fr": "Caribou à la Tignasse humide",
+    "de": "Feuchthaar Caribou",
+    "pt": "Caribou do Cabelo Molhado",
+    "it": "Caribou Capelli bagnati",
+    "id": "Caribou Rambut Basah"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#caribou",
+   "make_poster": "https://onepieceposter.com/?poster=caribou",
+   "popularity_rank": 64
+  },
+  {
+   "slug": "fisher-tiger",
+   "name": "Fisher Tiger",
+   "bounty": 230000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Fisher Tiger",
+    "es": "Fisher Tiger",
+    "fr": "Fisher Tiger",
+    "de": "Fisher Tiger",
+    "pt": "Fisher Tiger",
+    "it": "Fisher Tiger",
+    "id": "Fisher Tiger"
+   },
+   "nicknames": {
+    "en": "The Adventurer",
+    "es": "El Aventurero",
+    "fr": "L'Aventurier",
+    "de": null,
+    "pt": "O Aventureiro",
+    "it": "L'Avventuriero",
+    "id": "Sang Petualang"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#fisher-tiger",
+   "make_poster": "https://onepieceposter.com/?poster=fisher-tiger",
+   "popularity_rank": 65
+  },
+  {
+   "slug": "pedro",
+   "name": "Pedro",
+   "bounty": 382000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Pedro",
+    "es": "Pedro",
+    "fr": "Pedro",
+    "de": "Pedro",
+    "pt": "Pedro",
+    "it": "Pedro",
+    "id": "Pedro"
+   },
+   "nicknames": {
+    "en": "Pedro of the Treetops",
+    "es": "Pedro de la Copa del Árbol",
+    "fr": "Pedro le Perché",
+    "de": null,
+    "pt": "Pedro das Copas das Árvores",
+    "it": "Pedro l'Arboricolo",
+    "id": "Pedro si Puncak Pohon"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#pedro",
+   "make_poster": "https://onepieceposter.com/?poster=pedro",
+   "popularity_rank": 66
+  },
+  {
+   "slug": "pica",
+   "name": "Pica",
+   "bounty": 99000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Pica",
+    "es": "Pica",
+    "fr": "Pica",
+    "de": "Pica",
+    "pt": "Pica",
+    "it": "Pica",
+    "id": "Pica"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#pica",
+   "make_poster": "https://onepieceposter.com/?poster=pica",
+   "popularity_rank": 67
+  },
+  {
+   "slug": "x-drake",
+   "name": "X Drake",
+   "bounty": 222000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "X Drake",
+    "es": "X Drake",
+    "fr": "X Drake",
+    "de": "X Drake",
+    "pt": "X Drake",
+    "it": "X Drake",
+    "id": "X Drake"
+   },
+   "nicknames": {
+    "en": "Red Flag",
+    "es": "Bandera Roja",
+    "fr": "Drapeau rouge",
+    "de": null,
+    "pt": "Bandeira Vermelha",
+    "it": "Bandiera rossa",
+    "id": "Bendera Merah"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#x-drake",
+   "make_poster": "https://onepieceposter.com/?poster=x-drake",
+   "popularity_rank": 68
+  },
+  {
+   "slug": "charlotte-smoothie",
+   "name": "Charlotte Smoothie",
+   "bounty": 932000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Smoothie",
+    "es": "Charlotte Smoothie",
+    "fr": "Charlotte Smoothie",
+    "de": "Charlotte Smoothie",
+    "pt": "Charlotte Smoothie",
+    "it": "Charlotte Smoothie",
+    "id": "Charlotte Smoothie"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-smoothie",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-smoothie",
+   "popularity_rank": 69
+  },
+  {
+   "slug": "jack",
+   "name": "Jack",
+   "bounty": 1000000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Jack",
+    "es": "Jack",
+    "fr": "Jack",
+    "de": "Jack",
+    "pt": "Jack",
+    "it": "Jack",
+    "id": "Jack"
+   },
+   "nicknames": {
+    "en": "Jack the Drought",
+    "es": "Jack la Sequía",
+    "fr": "Jack la Sécheresse",
+    "de": null,
+    "pt": "Jack da Seca",
+    "it": "Jack la Siccità",
+    "id": "Jack Kemarau"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#jack",
+   "make_poster": "https://onepieceposter.com/?poster=jack",
+   "popularity_rank": 70
+  },
+  {
+   "slug": "douglas-bullet",
+   "name": "Douglas Bullet",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "roger-pirates"
+   ],
+   "names": {
+    "en": "Douglas Bullet",
+    "es": "Douglas Bullet",
+    "fr": "Douglas Bullet",
+    "de": "Douglas Bullet",
+    "pt": "Douglas Bullet",
+    "it": "Douglas Bullet",
+    "id": "Douglas Bullet"
+   },
+   "nicknames": {
+    "en": "Demon Heir",
+    "es": "Heredero del Demonio",
+    "fr": "Héritier du démon",
+    "de": null,
+    "pt": "Herdeiro do Demônio",
+    "it": "Erede del demone",
+    "id": "Pewaris Iblis"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#douglas-bullet",
+   "make_poster": "https://onepieceposter.com/?poster=douglas-bullet",
+   "popularity_rank": 71
+  },
+  {
+   "slug": "catarina-devon",
+   "name": "Catarina Devon",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Catarina Devon",
+    "es": "Catarina Devon",
+    "fr": "Catarina Devon",
+    "de": "Catarina Devon",
+    "pt": "Catarina Devon",
+    "it": "Catarina Devon",
+    "id": "Catarina Devon"
+   },
+   "nicknames": {
+    "en": "Crescent Moon Hunter",
+    "es": "La Cazadora de la Media Luna",
+    "fr": "La Chasseresse de nouvelle lune",
+    "de": null,
+    "pt": "Caçadora da Lua Crescente",
+    "it": "Cacciatrice della luna crescente",
+    "id": "Pemburu Bulan Sabit"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#catarina-devon",
+   "make_poster": "https://onepieceposter.com/?poster=catarina-devon",
+   "popularity_rank": 72
+  },
+  {
+   "slug": "basil-hawkins",
+   "name": "Basil Hawkins",
+   "bounty": 320000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Basil Hawkins",
+    "es": "Basil Hawkins",
+    "fr": "Basil Hawkins",
+    "de": "Basil Hawkins",
+    "pt": "Basil Hawkins",
+    "it": "Basil Hawkins",
+    "id": "Basil Hawkins"
+   },
+   "nicknames": {
+    "en": "Magician",
+    "es": "El Mago",
+    "fr": "Le Magicien",
+    "de": null,
+    "pt": "O Mago",
+    "it": "Il Mago",
+    "id": "Pesulap"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#basil-hawkins",
+   "make_poster": "https://onepieceposter.com/?poster=basil-hawkins",
+   "popularity_rank": 73
+  },
+  {
+   "slug": "edward-weevil",
+   "name": "Edward Weevil",
+   "bounty": 480000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords"
+   ],
+   "names": {
+    "en": "Edward Weevil",
+    "es": "Edward Weevil",
+    "fr": "Edward Weevil",
+    "de": "Edward Weevil",
+    "pt": "Edward Weevil",
+    "it": "Edward Weeble",
+    "id": "Edward Weevil"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#edward-weevil",
+   "make_poster": "https://onepieceposter.com/?poster=edward-weevil",
+   "popularity_rank": 74
+  },
+  {
+   "slug": "hatchan",
+   "name": "Hatchan",
+   "bounty": 8000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Hatchan",
+    "es": "Hatchan",
+    "fr": "Octo",
+    "de": "Okta",
+    "pt": "Hatchan",
+    "it": "Hacchan",
+    "id": "Hatchan"
+   },
+   "nicknames": {
+    "en": "Six Sword Style Hachi",
+    "es": "Hachi del Estilo con seis espadas",
+    "fr": "Hachi aux Six Lames",
+    "de": null,
+    "pt": "Hachi Estilo de Seis Espadas",
+    "it": "Hachi",
+    "id": "Gaya Enam Pedang Hachi"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#hatchan",
+   "make_poster": "https://onepieceposter.com/?poster=hatchan",
+   "popularity_rank": 75
+  },
+  {
+   "slug": "curly-dadan",
+   "name": "Curly Dadan",
+   "bounty": 7800000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Curly Dadan",
+    "es": "Curly Dadan",
+    "fr": "Curly Dadan",
+    "de": "Kali Dadan",
+    "pt": "Curly Dadan",
+    "it": "Curly Dadan",
+    "id": "Curly Dadan"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#curly-dadan",
+   "make_poster": "https://onepieceposter.com/?poster=curly-dadan",
+   "popularity_rank": 76
+  },
+  {
+   "slug": "shiryu",
+   "name": "Shiryu",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Shiryu",
+    "es": "Shiryu",
+    "fr": "Shiryu",
+    "de": "Shiryu",
+    "pt": "Shiryu",
+    "it": "Shiryu",
+    "id": "Shiryu"
+   },
+   "nicknames": {
+    "en": "Shiryu of the Rain",
+    "es": "Shiryu de la Lluvia",
+    "fr": "Shiryu de la Pluie",
+    "de": null,
+    "pt": "Shiryu da Chuva",
+    "it": "Shiryu della Pioggia",
+    "id": "Shiryu si Hujan"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#shiryu",
+   "make_poster": "https://onepieceposter.com/?poster=shiryu",
+   "popularity_rank": 77
+  },
+  {
+   "slug": "vander-decken-ix",
+   "name": "Vander Decken IX",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [],
+   "names": {
+    "en": "Vander Decken IX",
+    "es": "Vander Decken IX",
+    "fr": "Vander Decken IX",
+    "de": "Vander Decken IX",
+    "pt": "Vander Decken IX",
+    "it": "Vander Decken IX",
+    "id": "Vander Decken IX"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#vander-decken-ix",
+   "make_poster": "https://onepieceposter.com/?poster=vander-decken-ix",
+   "popularity_rank": 78
+  },
+  {
+   "slug": "lucky-roux",
+   "name": "Lucky Roux",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "red-hair-pirates"
+   ],
+   "names": {
+    "en": "Lucky Roux",
+    "es": "Lucky Roux",
+    "fr": "Lucky Roux",
+    "de": "Lucky Roux",
+    "pt": "Lucky Roux",
+    "it": "Lucky Roux",
+    "id": "Lucky Roux"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#lucky-roux",
+   "make_poster": "https://onepieceposter.com/?poster=lucky-roux",
+   "popularity_rank": 79
+  },
+  {
+   "slug": "zeff",
+   "name": "Zeff",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [],
+   "names": {
+    "en": "Zeff",
+    "es": "Zeff",
+    "fr": "Zeff",
+    "de": "Jeff",
+    "pt": "Zeff",
+    "it": "Zeff",
+    "id": "Zeff"
+   },
+   "nicknames": {
+    "en": "Red-Leg Zeff",
+    "es": "Pierna Roja",
+    "fr": "Zeff aux Pieds rouges",
+    "de": "Rotfuß Jeff",
+    "pt": "Perna Vermelha",
+    "it": "Zeff Piedi rossi",
+    "id": "Kaki Merah Zeff"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#zeff",
+   "make_poster": "https://onepieceposter.com/?poster=zeff",
+   "popularity_rank": 80
+  },
+  {
+   "slug": "belo-betty",
+   "name": "Belo Betty",
+   "bounty": 457000000,
+   "bounty_known": true,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Belo Betty",
+    "es": "Belo Betty",
+    "fr": "Belo Betty",
+    "de": "Belo Betty",
+    "pt": "Belo Betty",
+    "it": "Belo Betty",
+    "id": "Belo Betty"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#belo-betty",
+   "make_poster": "https://onepieceposter.com/?poster=belo-betty",
+   "popularity_rank": 81
+  },
+  {
+   "slug": "diamante",
+   "name": "Diamante",
+   "bounty": 99000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Diamante",
+    "es": "Diamante",
+    "fr": "Diamante",
+    "de": "Diamante",
+    "pt": "Diamante",
+    "it": "Diamante",
+    "id": "Diamante"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#diamante",
+   "make_poster": "https://onepieceposter.com/?poster=diamante",
+   "popularity_rank": 82
+  },
+  {
+   "slug": "vista",
+   "name": "Vista",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Vista",
+    "es": "Vista",
+    "fr": "Vista",
+    "de": "Vista",
+    "pt": "Vista",
+    "it": "Vista",
+    "id": "Vista"
+   },
+   "nicknames": {
+    "en": "Vista of the Flower Swords",
+    "es": "Vista de las Espadas Florales",
+    "fr": "Vista l'Épée fleurie",
+    "de": null,
+    "pt": "Vista das Espadas das Flores",
+    "it": "Vista Spada fiorita",
+    "id": "Pedang Bunga Vista"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#vista",
+   "make_poster": "https://onepieceposter.com/?poster=vista",
+   "popularity_rank": 83
+  },
+  {
+   "slug": "dellinger",
+   "name": "Dellinger",
+   "bounty": 15000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Dellinger",
+    "es": "Dellinger",
+    "fr": "Dellinger",
+    "de": "Dellinger",
+    "pt": "Dellinger",
+    "it": "Dellinger",
+    "id": "Dellinger"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#dellinger",
+   "make_poster": "https://onepieceposter.com/?poster=dellinger",
+   "popularity_rank": 84
+  },
+  {
+   "slug": "whos-who",
+   "name": "Who's-Who",
+   "bounty": 546000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Who's-Who",
+    "es": "Who's-Who",
+    "fr": "Who's-Who",
+    "de": "Who's-Who",
+    "pt": "Who's-Who",
+    "it": "Who's-Who",
+    "id": "Who's-Who"
+   },
+   "nicknames": {
+    "en": "Who of the Droplets",
+    "es": "Who el Escurridizo",
+    "fr": "Who la Gouttelette",
+    "de": null,
+    "pt": "Who das Gotas",
+    "it": "Who delle Goccioline",
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#whos-who",
+   "make_poster": "https://onepieceposter.com/?poster=whos-who",
+   "popularity_rank": 85
+  },
+  {
+   "slug": "zala",
+   "name": "Zala",
+   "bounty": 35000000,
+   "bounty_known": true,
+   "groups": [
+    "baroque-works"
+   ],
+   "names": {
+    "en": "Zala",
+    "es": "Zala",
+    "fr": "Zala",
+    "de": "Pola",
+    "pt": "Zala",
+    "it": "Zala",
+    "id": "Zala"
+   },
+   "nicknames": {
+    "en": "Miss Doublefinger",
+    "es": "Miss Doublefinger",
+    "fr": "Miss Doublefinger",
+    "de": "Miss Doublefinger",
+    "pt": "Miss Doublefinger",
+    "it": "Miss Doublefinger",
+    "id": "Miss Doublefinger"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#zala",
+   "make_poster": "https://onepieceposter.com/?poster=zala",
+   "popularity_rank": 86
+  },
+  {
+   "slug": "charlotte-cracker",
+   "name": "Charlotte Cracker",
+   "bounty": 860000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Cracker",
+    "es": "Charlotte Cracker",
+    "fr": "Charlotte Cracker",
+    "de": "Charlotte Cracker",
+    "pt": "Charlotte Cracker",
+    "it": "Charlotte Cracker",
+    "id": "Charlotte Cracker"
+   },
+   "nicknames": {
+    "en": "Thousand Arms Cracker",
+    "es": "Cracker el Mil Brazos",
+    "fr": "Cracker aux Mille Bras",
+    "de": null,
+    "pt": "Cracker dos Mil Braços",
+    "it": "Cracker Mille braccia",
+    "id": "Seribu Tangan Cracker"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-cracker",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-cracker",
+   "popularity_rank": 87
+  },
+  {
+   "slug": "urouge",
+   "name": "Urouge",
+   "bounty": 108000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Urouge",
+    "es": "Urouge",
+    "fr": "Urouge",
+    "de": "Urouge",
+    "pt": "Urouge",
+    "it": "Urouge",
+    "id": "Urouge"
+   },
+   "nicknames": {
+    "en": "Mad Monk",
+    "es": "Monje Siniestro",
+    "fr": "Moine fou",
+    "de": null,
+    "pt": "Monge Louco",
+    "it": "Monaco pazzo",
+    "id": "Biksu Gila"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#urouge",
+   "make_poster": "https://onepieceposter.com/?poster=urouge",
+   "popularity_rank": 88
+  },
+  {
+   "slug": "brogy",
+   "name": "Brogy",
+   "bounty": 1800000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Brogy",
+    "es": "Brogy",
+    "fr": "Brogy",
+    "de": "Brogy",
+    "pt": "Brogy",
+    "it": "Brogi",
+    "id": "Brogy"
+   },
+   "nicknames": {
+    "en": "Brogy the Red Ogre",
+    "es": "Brogy el Ogro Rojo",
+    "fr": "Brogy le Démon rouge",
+    "de": null,
+    "pt": "Brogy, o Oni Vermelho",
+    "it": "Brogi il Demone rosso",
+    "id": "Brogy si Raksasa Merah"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#brogy",
+   "make_poster": "https://onepieceposter.com/?poster=brogy",
+   "popularity_rank": 89
+  },
+  {
+   "slug": "boa-sandersonia",
+   "name": "Boa Sandersonia",
+   "bounty": 40000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Boa Sandersonia",
+    "es": "Boa Sandersonia",
+    "fr": "Boa Sandersonia",
+    "de": "Boa Sandersonia",
+    "pt": "Boa Sandersonia",
+    "it": "Boa Sandersonia",
+    "id": "Boa Sandersonia"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#boa-sandersonia",
+   "make_poster": "https://onepieceposter.com/?poster=boa-sandersonia",
+   "popularity_rank": 90
+  },
+  {
+   "slug": "dorry",
+   "name": "Dorry",
+   "bounty": 1800000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Dorry",
+    "es": "Dorry",
+    "fr": "Dorry",
+    "de": "Dorry",
+    "pt": "Dorry",
+    "it": "Dori",
+    "id": "Dorry"
+   },
+   "nicknames": {
+    "en": "Dorry the Blue Ogre",
+    "es": "Dorry el Ogro Azul",
+    "fr": "Dorry le Démon bleu",
+    "de": null,
+    "pt": "Dorry, o Oni Azul",
+    "it": "Dori il Demone blu",
+    "id": "Dorry Sang Raksasa Biru"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#dorry",
+   "make_poster": "https://onepieceposter.com/?poster=dorry",
+   "popularity_rank": 91
+  },
+  {
+   "slug": "kyros",
+   "name": "Kyros",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [],
+   "names": {
+    "en": "Kyros",
+    "es": "Kyros",
+    "fr": "Kyros",
+    "de": "Kyros",
+    "pt": "Kyros",
+    "it": "Kyros",
+    "id": "Kyros"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#kyros",
+   "make_poster": "https://onepieceposter.com/?poster=kyros",
+   "popularity_rank": 92
+  },
+  {
+   "slug": "trebol",
+   "name": "Trebol",
+   "bounty": 99000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Trebol",
+    "es": "Trebol",
+    "fr": "Trebol",
+    "de": "Trebol",
+    "pt": "Trebol",
+    "it": "Trebol",
+    "id": "Trebol"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#trebol",
+   "make_poster": "https://onepieceposter.com/?poster=trebol",
+   "popularity_rank": 93
+  },
+  {
+   "slug": "capone-bege",
+   "name": "Capone Bege",
+   "bounty": 350000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Capone Bege",
+    "es": "Capone Bege",
+    "fr": "Capone Bege",
+    "de": "Capone Bege",
+    "pt": "Capone Bege",
+    "it": "Capone Bege",
+    "id": "Capone Bege"
+   },
+   "nicknames": {
+    "en": "Gang",
+    "es": "Gang",
+    "fr": "Gang",
+    "de": null,
+    "pt": "Gang",
+    "it": "Gang",
+    "id": "Gang"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#capone-bege",
+   "make_poster": "https://onepieceposter.com/?poster=capone-bege",
+   "popularity_rank": 94
+  },
+  {
+   "slug": "jesus-burgess",
+   "name": "Jesus Burgess",
+   "bounty": 20000000,
+   "bounty_known": true,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Jesus Burgess",
+    "es": "Jesus Burgess",
+    "fr": "Jesus Burgess",
+    "de": "Jesus Burgess",
+    "pt": "Jesus Burgess",
+    "it": "Jesus Burgess",
+    "id": "Jesus Burgess"
+   },
+   "nicknames": {
+    "en": "Champion",
+    "es": "Champion",
+    "fr": "Champion",
+    "de": null,
+    "pt": "Campeão",
+    "it": "Il Campione",
+    "id": "Juara"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#jesus-burgess",
+   "make_poster": "https://onepieceposter.com/?poster=jesus-burgess",
+   "popularity_rank": 95
+  },
+  {
+   "slug": "scratchmen-apoo",
+   "name": "Scratchmen Apoo",
+   "bounty": 350000000,
+   "bounty_known": true,
+   "groups": [
+    "worst-generation"
+   ],
+   "names": {
+    "en": "Scratchmen Apoo",
+    "es": "Scratchmen Apoo",
+    "fr": "Scratchmen Apoo",
+    "de": "Scratchmen Apoo",
+    "pt": "Scratchmen Apoo",
+    "it": "Scratchmen Apoo",
+    "id": "Scratchmen Apoo"
+   },
+   "nicknames": {
+    "en": "Roar of the Sea",
+    "es": "Rugido del Mar",
+    "fr": "La Marée rugissante",
+    "de": null,
+    "pt": "Rugido do Mar",
+    "it": "Ruggito del mare",
+    "id": "Raungan Laut"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#scratchmen-apoo",
+   "make_poster": "https://onepieceposter.com/?poster=scratchmen-apoo",
+   "popularity_rank": 96
+  },
+  {
+   "slug": "sanjuan-wolf",
+   "name": "Sanjuan Wolf",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Sanjuan Wolf",
+    "es": "Sanjuan Wolf",
+    "fr": "Sanjuan Wolf",
+    "de": "Sanjuan Wolf",
+    "pt": "Sanjuan Wolf",
+    "it": "Sanjuan Wolf",
+    "id": "Sanjuan Wolf"
+   },
+   "nicknames": {
+    "en": "Colossal Battleship",
+    "es": "Buque de Guerra Colosal",
+    "fr": "Le Cuirassé géant",
+    "de": null,
+    "pt": "Navio de Guerra Colossal",
+    "it": "Corazzata gigante",
+    "id": "Kapal Perang Kolosal"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#sanjuan-wolf",
+   "make_poster": "https://onepieceposter.com/?poster=sanjuan-wolf",
+   "popularity_rank": 97
+  },
+  {
+   "slug": "pekoms",
+   "name": "Pekoms",
+   "bounty": 330000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Pekoms",
+    "es": "Pekoms",
+    "fr": "Pekoms",
+    "de": "Pekoms",
+    "pt": "Pekoms",
+    "it": "Pekoms",
+    "id": "Pekoms"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#pekoms",
+   "make_poster": "https://onepieceposter.com/?poster=pekoms",
+   "popularity_rank": 98
+  },
+  {
+   "slug": "nico-olvia",
+   "name": "Nico Olvia",
+   "bounty": 79000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Nico Olvia",
+    "es": "Nico Olvia",
+    "fr": "Nico Olvia",
+    "de": "Nico Olvia",
+    "pt": "Nico Olvia",
+    "it": "Nico Olvia",
+    "id": "Nico Olvia"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#nico-olvia",
+   "make_poster": "https://onepieceposter.com/?poster=nico-olvia",
+   "popularity_rank": 99
+  },
+  {
+   "slug": "gin",
+   "name": "Gin",
+   "bounty": 12000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Gin",
+    "es": "Gin",
+    "fr": "Gyn",
+    "de": "Gin",
+    "pt": "Gin",
+    "it": "Gin",
+    "id": "Gin"
+   },
+   "nicknames": {
+    "en": "Gin the Man-Demon",
+    "es": "Gin el Hombre-Demonio",
+    "fr": "Gyn le Démon",
+    "de": null,
+    "pt": "Gin, o Homem-Demônio",
+    "it": "Gin l'Uomo-orco",
+    "id": "Gin si Manusia-Iblis"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gin",
+   "make_poster": "https://onepieceposter.com/?poster=gin",
+   "popularity_rank": 100
+  },
+  {
+   "slug": "karasu",
+   "name": "Karasu",
+   "bounty": 400000000,
+   "bounty_known": true,
+   "groups": [
+    "revolutionaries"
+   ],
+   "names": {
+    "en": "Karasu",
+    "es": "Karasu",
+    "fr": "Corbeau",
+    "de": "Karasu",
+    "pt": "Karasu",
+    "it": "Karasu",
+    "id": "Karasu"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#karasu",
+   "make_poster": "https://onepieceposter.com/?poster=karasu",
+   "popularity_rank": 101
+  },
+  {
+   "slug": "laffitte",
+   "name": "Laffitte",
+   "bounty": 42200000,
+   "bounty_known": true,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Laffitte",
+    "es": "Laffitte",
+    "fr": "Laffitte",
+    "de": "Raffit",
+    "pt": "Laffitte",
+    "it": "Lafitte",
+    "id": "Laffitte"
+   },
+   "nicknames": {
+    "en": "Demon Sheriff",
+    "es": "Sheriff Demonio",
+    "fr": "Shérif démoniaque",
+    "de": null,
+    "pt": "Xerife Demônio",
+    "it": "Sceriffo diabolico",
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#laffitte",
+   "make_poster": "https://onepieceposter.com/?poster=laffitte",
+   "popularity_rank": 102
+  },
+  {
+   "slug": "pandaman",
+   "name": "Pandaman",
+   "bounty": 3333333,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Pandaman",
+    "es": "Pandaman",
+    "fr": "Pandaman",
+    "de": "Pandaman",
+    "pt": "Pandaman",
+    "it": "Pandaman",
+    "id": "Pandaman"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#pandaman",
+   "make_poster": "https://onepieceposter.com/?poster=pandaman",
+   "popularity_rank": 103
+  },
+  {
+   "slug": "vasco-shot",
+   "name": "Vasco Shot",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Vasco Shot",
+    "es": "Vasco Shot",
+    "fr": "Vasco Shot",
+    "de": "Vasco Shot",
+    "pt": "Vasco Shot",
+    "it": "Vasco Shot",
+    "id": "Vasco Shot"
+   },
+   "nicknames": {
+    "en": "Heavy Drinker",
+    "es": "El Gran Bebedor",
+    "fr": "Le Roi de la bibine",
+    "de": null,
+    "pt": "O Beberrão",
+    "it": "L'Ubriacone",
+    "id": "Peminum Berat"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#vasco-shot",
+   "make_poster": "https://onepieceposter.com/?poster=vasco-shot",
+   "popularity_rank": 104
+  },
+  {
+   "slug": "charlotte-perospero",
+   "name": "Charlotte Perospero",
+   "bounty": 700000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Perospero",
+    "es": "Charlotte Perospero",
+    "fr": "Charlotte Slurp",
+    "de": "Charlotte Perospero",
+    "pt": "Charlotte Perospero",
+    "it": "Charlotte Perospero",
+    "id": "Charlotte Perospero"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-perospero",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-perospero",
+   "popularity_rank": 105
+  },
+  {
+   "slug": "lao-g",
+   "name": "Lao G",
+   "bounty": 61000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Lao G",
+    "es": "Lao G",
+    "fr": "Lao G",
+    "de": "Lao G",
+    "pt": "Lao G",
+    "it": "Lao G",
+    "id": "Lao G"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#lao-g",
+   "make_poster": "https://onepieceposter.com/?poster=lao-g",
+   "popularity_rank": 106
+  },
+  {
+   "slug": "charlotte-daifuku",
+   "name": "Charlotte Daifuku",
+   "bounty": 300000000,
+   "bounty_known": true,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Daifuku",
+    "es": "Charlotte Daifuku",
+    "fr": "Charlotte Daifuku",
+    "de": "Charlotte Daifuku",
+    "pt": "Charlotte Daifuku",
+    "it": "Charlotte Daifuku",
+    "id": "Charlotte Daifuku"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-daifuku",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-daifuku",
+   "popularity_rank": 107
+  },
+  {
+   "slug": "jozu",
+   "name": "Jozu",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Jozu",
+    "es": "Jozu",
+    "fr": "Jozu",
+    "de": "Jozu",
+    "pt": "Jozu",
+    "it": "Jaws",
+    "id": "Jozu"
+   },
+   "nicknames": {
+    "en": "Diamond Jozu",
+    "es": "Diamond Jozu",
+    "fr": "Diamant Joz",
+    "de": null,
+    "pt": "Diamante Jozu",
+    "it": "Diamond Jaws",
+    "id": "Berlian Jozu"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#jozu",
+   "make_poster": "https://onepieceposter.com/?poster=jozu",
+   "popularity_rank": 108
+  },
+  {
+   "slug": "charlotte-amande",
+   "name": "Charlotte Amande",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "big-mom-pirates"
+   ],
+   "names": {
+    "en": "Charlotte Amande",
+    "es": "Charlotte Amande",
+    "fr": "Charlotte Amande",
+    "de": "Charlotte Amande",
+    "pt": "Charlotte Amande",
+    "it": "Charlotte Amande",
+    "id": "Charlotte Amande"
+   },
+   "nicknames": {
+    "en": "Demon Lady",
+    "es": "La Dama Demonio",
+    "fr": "La Démone",
+    "de": null,
+    "pt": "Senhora Demônio",
+    "it": "Donna demoniaca",
+    "id": "Wanita Iblis"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#charlotte-amande",
+   "make_poster": "https://onepieceposter.com/?poster=charlotte-amande",
+   "popularity_rank": 109
+  },
+  {
+   "slug": "gladius",
+   "name": "Gladius",
+   "bounty": 31000000,
+   "bounty_known": true,
+   "groups": [
+    "donquixote-pirates"
+   ],
+   "names": {
+    "en": "Gladius",
+    "es": "Gladius",
+    "fr": "Gladius",
+    "de": "Gladius",
+    "pt": "Gladius",
+    "it": "Gladius",
+    "id": "Gladius"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gladius",
+   "make_poster": "https://onepieceposter.com/?poster=gladius",
+   "popularity_rank": 110
+  },
+  {
+   "slug": "sasaki",
+   "name": "Sasaki",
+   "bounty": 472000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Sasaki",
+    "es": "Sasaki",
+    "fr": "Sasaki",
+    "de": "Sasaki",
+    "pt": "Sasaki",
+    "it": "Sasaki",
+    "id": "Sasaki"
+   },
+   "nicknames": {
+    "en": "Overflowing Sasaki",
+    "es": "Sasaki el Rebosante",
+    "fr": "Sasaki le Débordant",
+    "de": null,
+    "pt": "Sasaki dos Excessos",
+    "it": "Sasaki il Traboccante",
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#sasaki",
+   "make_poster": "https://onepieceposter.com/?poster=sasaki",
+   "popularity_rank": 111
+  },
+  {
+   "slug": "yorki",
+   "name": "Yorki",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [],
+   "names": {
+    "en": "Yorki",
+    "es": "Yorki",
+    "fr": "Yorki",
+    "de": "Yorki",
+    "pt": "Yorki",
+    "it": "Yorki",
+    "id": "Yorki"
+   },
+   "nicknames": {
+    "en": "Calico Yorki",
+    "es": "Calico Yorki",
+    "fr": "Calico Yorki",
+    "de": null,
+    "pt": "Calico Yorki",
+    "it": "Calico Yorki",
+    "id": "Calico Yorki"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#yorki",
+   "make_poster": "https://onepieceposter.com/?poster=yorki",
+   "popularity_rank": 112
+  },
+  {
+   "slug": "page-one",
+   "name": "Page One",
+   "bounty": 290000000,
+   "bounty_known": true,
+   "groups": [
+    "beasts-pirates"
+   ],
+   "names": {
+    "en": "Page One",
+    "es": "Page One",
+    "fr": "Page One",
+    "de": "Page One",
+    "pt": "Page One",
+    "it": "Page One",
+    "id": "Page One"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#page-one",
+   "make_poster": "https://onepieceposter.com/?poster=page-one",
+   "popularity_rank": 113
+  },
+  {
+   "slug": "avalo-pizarro",
+   "name": "Avalo Pizarro",
+   "bounty": null,
+   "bounty_known": false,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Avalo Pizarro",
+    "es": "Avalo Pizarro",
+    "fr": "Avalo Pizarro",
+    "de": "Avalo Pizarro",
+    "pt": "Avalo Pizarro",
+    "it": "Avalo Pizarro",
+    "id": "Avalo Pizarro"
+   },
+   "nicknames": {
+    "en": "Corrupt King",
+    "es": "Rey Corrupto",
+    "fr": "Le Roi dépravé",
+    "de": null,
+    "pt": "Monarca Corrupto",
+    "it": "Re corrotto",
+    "id": "Raja Korup"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#avalo-pizarro",
+   "make_poster": "https://onepieceposter.com/?poster=avalo-pizarro",
+   "popularity_rank": 114
+  },
+  {
+   "slug": "bartolomeo",
+   "name": "Bartolomeo",
+   "bounty": 200000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Bartolomeo",
+    "es": "Bartolomeo",
+    "fr": "Bartolomeo",
+    "de": "Bartolomeo",
+    "pt": "Bartolomeo",
+    "it": "Bartolomeo",
+    "id": "Bartolomeo"
+   },
+   "nicknames": {
+    "en": "Bartolomeo the Cannibal",
+    "es": "Bartolomeo el Mordaz",
+    "fr": "Bartolomeo le Cannibale",
+    "de": null,
+    "pt": "Bartolomeo, o Canibal",
+    "it": "Bartolomeo il Cannibale",
+    "id": "Bartolomeo si Kanibal"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#bartolomeo",
+   "make_poster": "https://onepieceposter.com/?poster=bartolomeo",
+   "popularity_rank": 115
+  },
+  {
+   "slug": "sai",
+   "name": "Sai",
+   "bounty": 210000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Sai",
+    "es": "Sai",
+    "fr": "Sai",
+    "de": "Sai",
+    "pt": "Sai",
+    "it": "Sai",
+    "id": "Sai"
+   },
+   "nicknames": {
+    "en": "Don Sai",
+    "es": "Don Sai",
+    "fr": "Don Sai",
+    "de": null,
+    "pt": "Don Sai",
+    "it": null,
+    "id": "Don Sai"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#sai",
+   "make_poster": "https://onepieceposter.com/?poster=sai",
+   "popularity_rank": 116
+  },
+  {
+   "slug": "little-oars-jr",
+   "name": "Little Oars Jr.",
+   "bounty": 550000000,
+   "bounty_known": true,
+   "groups": [
+    "whitebeard-pirates"
+   ],
+   "names": {
+    "en": "Little Oars Jr.",
+    "es": "Little Oars Jr.",
+    "fr": "Little Oz Junior",
+    "de": "Little Oars Jr.",
+    "pt": "Little Oars Jr.",
+    "it": "Little Odr Junior",
+    "id": "Little Oars Jr."
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#little-oars-jr",
+   "make_poster": "https://onepieceposter.com/?poster=little-oars-jr",
+   "popularity_rank": 117
+  },
+  {
+   "slug": "bartholomew-kuma",
+   "name": "Bartholomew Kuma",
+   "bounty": 296000000,
+   "bounty_known": true,
+   "groups": [
+    "warlords"
+   ],
+   "names": {
+    "en": "Bartholomew Kuma",
+    "es": "Bartholomew Kuma",
+    "fr": "Bartholomew Kuma",
+    "de": "Bartholomäus Bär",
+    "pt": "Bartholomew Kuma",
+    "it": "Orso Bartholomew",
+    "id": "Bartholomew Kuma"
+   },
+   "nicknames": {
+    "en": "Tyrant",
+    "es": "El Tirano",
+    "fr": "Le Tyran",
+    "de": "Der Tyrann",
+    "pt": "Tirano",
+    "it": "Il Tiranno",
+    "id": "Tiran"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#bartholomew-kuma",
+   "make_poster": "https://onepieceposter.com/?poster=bartholomew-kuma",
+   "popularity_rank": 118
+  },
+  {
+   "slug": "gill-bastar",
+   "name": "Gill Bastar",
+   "bounty": 970000000,
+   "bounty_known": true,
+   "groups": [],
+   "names": {
+    "en": "Gill Bastar",
+    "es": "Gill Bastar",
+    "fr": "Gill Bastar",
+    "de": "Gill Bastar",
+    "pt": "Gill Bastar",
+    "it": "Gill Bastar",
+    "id": "Gill Bastar"
+   },
+   "nicknames": {
+    "en": null,
+    "es": null,
+    "fr": null,
+    "de": null,
+    "pt": null,
+    "it": null,
+    "id": null
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#gill-bastar",
+   "make_poster": "https://onepieceposter.com/?poster=gill-bastar",
+   "popularity_rank": 119
+  },
+  {
+   "slug": "van-augur",
+   "name": "Van Augur",
+   "bounty": 64000000,
+   "bounty_known": true,
+   "groups": [
+    "blackbeard-pirates"
+   ],
+   "names": {
+    "en": "Van Augur",
+    "es": "Van Augur",
+    "fr": "Van Augur",
+    "de": "Van Augur",
+    "pt": "Van Augur",
+    "it": "Van Ooger",
+    "id": "Van Augur"
+   },
+   "nicknames": {
+    "en": "The Supersonic",
+    "es": "El Supersónico",
+    "fr": "Le Supersonique",
+    "de": null,
+    "pt": "O Supersônico",
+    "it": "Ultrasuono",
+    "id": "Supersonik"
+   },
+   "poster": "https://onepieceposter.com/one-piece-posters/#van-augur",
+   "make_poster": "https://onepieceposter.com/?poster=van-augur",
+   "popularity_rank": 120
+  }
+ ]
+}

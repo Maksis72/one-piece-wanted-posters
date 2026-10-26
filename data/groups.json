@@ -1,0 +1,128 @@
+{
+ "straw-hats": {
+  "en": "Straw Hats",
+  "es": "Sombrero de Paja",
+  "fr": "Chapeau de paille",
+  "de": "Strohhutbande",
+  "pt": "Chapéus de Palha",
+  "it": "Cappello di paglia",
+  "id": "Kru Topi Jerami"
+ },
+ "emperors": {
+  "en": "Emperors",
+  "es": "Cuatro Emperadores",
+  "fr": "Empereurs",
+  "de": "Kaiser",
+  "pt": "Imperadores",
+  "it": "Imperatori",
+  "id": "Yonko"
+ },
+ "warlords": {
+  "en": "Warlords",
+  "es": "Señores de la Guerra del Mar",
+  "fr": "Grands Corsaires",
+  "de": "Samurai der Meere",
+  "pt": "Shichibukai",
+  "it": "Flotta dei sette",
+  "id": "Shichibukai"
+ },
+ "worst-generation": {
+  "en": "Worst Generation",
+  "es": "Peor Generación",
+  "fr": "Pire Génération",
+  "de": "Schlimmste Generation",
+  "pt": "Pior Geração",
+  "it": "Peggiore delle generazioni",
+  "id": "Generasi Terburuk"
+ },
+ "roger-pirates": {
+  "en": "Roger Pirates",
+  "es": "Piratas de Roger",
+  "fr": "Pirates de Roger",
+  "de": "Roger-Piraten",
+  "pt": "Piratas do Roger",
+  "it": "Pirati di Roger",
+  "id": "Bajak Laut Roger"
+ },
+ "red-hair-pirates": {
+  "en": "Red Hair Pirates",
+  "es": "Piratas del Pelirrojo",
+  "fr": "Équipage du Roux",
+  "de": "Shanks’ Piraten",
+  "pt": "Piratas do Ruivo",
+  "it": "Pirati del Rosso",
+  "id": "Bajak Laut Rambut Merah"
+ },
+ "whitebeard-pirates": {
+  "en": "Whitebeard Pirates",
+  "es": "Piratas de Barbablanca",
+  "fr": "Équipage de Barbe Blanche",
+  "de": "Whitebeard-Piraten",
+  "pt": "Piratas do Barba Branca",
+  "it": "Pirati di Barbabianca",
+  "id": "Bajak Laut Shirohige"
+ },
+ "beasts-pirates": {
+  "en": "Beasts Pirates",
+  "es": "Piratas de las Bestias",
+  "fr": "Équipage des Cent Bêtes",
+  "de": "Hundert-Bestien-Piraten",
+  "pt": "Piratas Bestiais",
+  "it": "Pirati delle cento bestie",
+  "id": "Bajak Laut Beasts"
+ },
+ "big-mom-pirates": {
+  "en": "Big Mom Pirates",
+  "es": "Piratas de Big Mom",
+  "fr": "Équipage de Big Mom",
+  "de": "Big-Mum-Piraten",
+  "pt": "Piratas da Big Mom",
+  "it": "Pirati di Big Mom",
+  "id": "Bajak Laut Big Mom"
+ },
+ "donquixote-pirates": {
+  "en": "Donquixote Pirates",
+  "es": "Piratas Donquixote",
+  "fr": "Équipage de Don Quijote",
+  "de": "Donquixote-Piraten",
+  "pt": "Piratas Donquixote",
+  "it": "Pirati di Donquijote",
+  "id": "Bajak Laut Donquixote"
+ },
+ "blackbeard-pirates": {
+  "en": "Blackbeard Pirates",
+  "es": "Piratas de Barbanegra",
+  "fr": "Équipage de Barbe Noire",
+  "de": "Blackbeard-Piraten",
+  "pt": "Piratas do Barba Negra",
+  "it": "Pirati di Barbanera",
+  "id": "Bajak Laut Blackbeard"
+ },
+ "baroque-works": {
+  "en": "Baroque Works",
+  "es": "Baroque Works",
+  "fr": "Baroque Works",
+  "de": "Baroque-Firma",
+  "pt": "Baroque Works",
+  "it": "Baroque Works",
+  "id": "Baroque Works"
+ },
+ "cross-guild": {
+  "en": "Cross Guild",
+  "es": "Cross Guild",
+  "fr": "Cross Guild",
+  "de": "Cross Guild",
+  "pt": "Cross Guild",
+  "it": "Cross Guild",
+  "id": "Cross Guild"
+ },
+ "revolutionaries": {
+  "en": "Revolutionary Army",
+  "es": "Ejército Revolucionario",
+  "fr": "Armée révolutionnaire",
+  "de": "Revolutionsarmee",
+  "pt": "Exército Revolucionário",
+  "it": "Armata rivoluzionaria",
+  "id": "Pasukan Revolusioner"
+ }
+}
